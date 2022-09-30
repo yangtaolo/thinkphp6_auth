@@ -1,0 +1,18 @@
+{
+    "name": "yangtao/thinkphp6-auth",
+    "description": "thinkphp6 auth权限核心文件",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "yangtao",
+            "email": "yangtaolo@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "yangtao\\auth\\": ""
+        }
+      }
+}
